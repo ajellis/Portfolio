@@ -5,7 +5,9 @@ github.com/hieshin431
 
 
 DEVELOPMENT SKILLS
+
  ———————————————————————————————————————
+
 Languages - Ruby
 Web Frameworks - Rails
 Databases - SQLite, PostgresSQL
@@ -14,7 +16,9 @@ Methodologies - Agile, Object-Oriented Design, Test-Driven Development
 
 
 EDUCATION
+
 ———————————————————————————————————————
+
 The Iron Yard, Durham, NC, Ruby on Rails 08/2015 – 11/2015
   Attended an intensive three month code school to learn the fundamentals of web development. Completed web applications daily using Ruby on Rails and some HTML, CSS and Javascript.
 
@@ -22,7 +26,9 @@ University of North Carolina at Wilmington 06/2007 – 05/2010
   Studied Saxophone performance with a focus in jazz under Mr. Frank Bongiorno.
 
 NOTABLE PROJECTS
+
 ———————————————————————————————————————
+
 Communicant
   - Designed to be a means of communication for people who are in the midst of divorce or child
   custody proceedings. Court-appointed mediators can access the app and help facilitate the
@@ -33,9 +39,11 @@ Github Clone
   - App using Github’s API, designed to mimic the Github user profile page.
   - Can search any Github user, and will provide a profile page of theirs, built using Ruby on
   Rails as well as Javascript and CSS
-  
+
 OTHER EXPERIENCE
+
 ——————————————————————————————————————-
+
 National Jewelry & Pawn - Wilmington, NC 08/2011 -08/2015 Pawnbroker
   - Increased sales of a variety of products such as laptops, video game systems, jewelry, etc.
   - Assisted customers with any product related questions
